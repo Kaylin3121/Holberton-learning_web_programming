@@ -2,13 +2,13 @@
 <body>
 <head>
 <body>
-
-color: red;
-background-color: white
-{
-  padding: 50px;
-}
-margin="50 pixels to the left"
-id="going_to_the_right", id="I prefer to be aside."
+header:color#FF0000
+height: 70px
+width:100%
+footer:color#00FF00
+height: 60px
+width: 100%
+Text: Holberton
+Page Title: Learn Web Programming
 <head>
 <body>
