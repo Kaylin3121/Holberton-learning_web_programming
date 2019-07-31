@@ -11,3 +11,5 @@ echo -e "/n========== $argument  =========="
 ${BIN_PATH}/${BETTY_STYLE} "$argument"
 ${BIN_PATH}/${BETTY_DOC} "$argument"
 done
+
+betty <filename> 
