@@ -59,6 +59,12 @@ body {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
 }
 
+.famous{
+  position: absolute;
+  width: 600px;
+  height:400px;
+  align-items: : right;
+}
 /* Thin out the marketing headings */
 .featurette-heading {
   font-weight: 300;
